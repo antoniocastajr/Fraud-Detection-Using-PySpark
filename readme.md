@@ -87,10 +87,10 @@ This notebook contains a complete fraud detection workflow:
 **Objective:** Design and implement flexible ML pipelines for various model types.
 
 Four main pipelines are defined:
-1. **Baseline Pipeline:** Logistic Regression with standard preprocessing.
-2. **XGBoost Pipeline:** Gradient boosting using `xgboost-spark` features.
-3. **LightGBM Pipeline:** Fast and scalable boosting via `lightgbm-spark`.
-4. **Hybrid Pipelines:** XGBoost/LightGBM used for feature extraction, followed by Logistic Regression for classification.
+1. **XGBoost Pipeline:** Gradient boosting using `xgboost-spark`.
+2. **LightGBM Pipeline:** Fast and scalable boosting via `lightgbm-spark`.
+3. **Hybrid Pipeline:** XGBoost used for feature extraction, followed by Logistic Regression for classification.
+4. **Hybrid Pipeline:** LightGBM used for feature extraction, followed by Logistic Regression for classification.
 
 ---
 
