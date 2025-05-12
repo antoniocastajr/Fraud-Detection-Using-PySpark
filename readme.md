@@ -16,8 +16,6 @@ The objective is to develop a scalable fraud detection system capable of identif
 
 ✅ **Model training with multiple classifiers**: XGBoost, LightGBM, and ensemble combinations with Logistic Regression
 
-✅ **Ensemble learning** strategy to improve detection performance using model stacking
-
 ---
 
 ## 📂 Repository Structure
