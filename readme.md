@@ -33,25 +33,6 @@ The objective is to develop a scalable fraud detection system capable of identif
 
 ---
 
-## 🧠 Theory & Notation Reference
-
-### 📖 PySpark.pdf
-- Spark execution model: Driver, Executor, Cluster Manager  
-- Lazy evaluation, transformations, actions, DAG  
-- DataFrame API vs SQL API  
-- Machine learning with MLlib: `StringIndexer`, `VectorAssembler`, Pipelines  
-- Personal annotations highlighting key concepts
-
-### 📖 SQL.pdf
-- SELECT, WHERE, GROUP BY, ORDER BY basics  
-- Advanced filtering: LIKE, BETWEEN, IS NULL  
-- Aggregation functions & column aliases  
-- Join types and precedence rules  
-
-These theory files contain annotated summaries, acting as a quick reference for Spark and SQL essentials during implementation.
-
----
-
 ## 🧪 Notebook Overview: `fraud_detection.ipynb`
 
 This notebook contains a complete fraud detection workflow:
