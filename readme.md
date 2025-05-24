@@ -28,14 +28,6 @@ The objective is to develop a scalable fraud detection system capable of identif
 |   └── 📘 fraudTest.csv                        # Dataset used for testing
 |   └── 📘 fraudTrain.csv                       # Dataset used for training
 │
-├── 📁 Theory/
-│   ├── 📁 SQL/
-│   │   └── 📖 SQL.pdf                          # SQL foundations with personal annotations
-│   │   └── 📖 SQL-Manual.pdf                   # SQL manual with personal annotations
-│   └── 📁 Spark/
-│   │   └── 📖 PySpark.pdf                      # Spark theory + Spark SQL & DataFrame API guide with custom notations
-│   │   └── 📖 spark-the-definitive-guide.pdf   # SQL manual with personal annotations
-│
 └── 📄 README.md                                # This file
 ```
 
